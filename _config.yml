@@ -16,14 +16,14 @@ color:
 people:
 - name: Jim Howk
   pic: 1
-  position: Owner & Technical Lead
+  position: Technical Lead
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://twitter.com/howkj1
+    - title: linkedin
+      url: https://www.linkedin.com/in/jimhowk
+    - title: github
+      url: https://github.com/tirelesswake
 
 - name: Josh McCall
   pic: 2
@@ -31,7 +31,7 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
+    - title: github
       url: #
     - title: linkedin
       url: #
@@ -44,7 +44,7 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: google-plus
+    - title: linkedin
       url: #
 
 
