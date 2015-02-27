@@ -19,11 +19,12 @@ people:
   position: Technical Lead
   social:
     - title: twitter
-      url: https://twitter.com/howkj1
-    - title: linkedin
-      url: https://www.linkedin.com/in/jimhowk
+      url: https://twitter.com/howkj1    
     - title: github
       url: https://github.com/tirelesswake
+    - title: linkedin
+      url: https://www.linkedin.com/in/jimhowk
+
 
 - name: Josh McCall
   pic: 2
