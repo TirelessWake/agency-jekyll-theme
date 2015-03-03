@@ -16,51 +16,48 @@ color:
 people:
 - name: Jim Howk
   pic: 1
-  position: Technical Lead
-  social:
-    - title: twitter
-      url: https://twitter.com/howkj1    
-    - title: github
-      url: https://github.com/tirelesswake
-    - title: linkedin
-      url: https://www.linkedin.com/in/jimhowk
+#  social:
+#    - title: twitter
+#      url: https://twitter.com/howkj1    
+#    - title: github
+#      url: https://github.com/tirelesswake
+#    - title: linkedin
+#      url: https://www.linkedin.com/in/jimhowk
 
 
 - name: Josh McCall
   pic: 2
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: github
-      url: #
-    - title: linkedin
-      url: #
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: github
+#      url: #
+#    - title: linkedin
+v      url: #
 
 - name: Sarah Howk
   pic: 3
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
