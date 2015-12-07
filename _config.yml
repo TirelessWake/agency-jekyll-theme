@@ -1,5 +1,5 @@
 url: http://tirelesswake.com
-baseurl: 
+baseurl:
 
 # Site settings
 title: Tireless Wake
@@ -16,17 +16,19 @@ color:
 people:
 - name: Jim Howk
   pic: 1
-#  social:
-#    - title: twitter
-#      url: https://twitter.com/howkj1    
+  title: blog
+  url: http://jimhowk.com
+  social:
+    - title: twitter
+      url: https://twitter.com/howkj1
 #    - title: github
 #      url: https://github.com/tirelesswake
 #    - title: linkedin
 #      url: https://www.linkedin.com/in/jimhowk
 
 
-- name: Josh McCall
-  pic: 2
+#- name: Josh McCall
+#  pic: 2
 #  social:
 #    - title: twitter
 #      url: #
