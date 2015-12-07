@@ -15,8 +15,8 @@ color:
 # Team names, titles and social links
 people:
 - name: Jim Howk
-  url: http://jimhowk.com
   pic: 1
+  position: http://jimhowk.com
 #  social:
 #    - title: site
 #      url: http://jimhowk.com
