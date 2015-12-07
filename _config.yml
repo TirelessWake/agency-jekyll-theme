@@ -16,6 +16,7 @@ color:
 people:
 - name: <a href="http://jimhowk.com">Jim Howk</a>
   pic: 1
+  personal: "http://jimhowk.com"
 #  social:
 #    - title: site
 #      url: http://jimhowk.com
