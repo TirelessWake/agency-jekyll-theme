@@ -16,7 +16,7 @@ color:
 people:
 - name: Jim Howk
   pic: 1
-  position: <a href=http://jimhowk.com "jimhowk.com"></a>
+  position: <a href="jimhowk.com">jimhowk.com</a>
 #  social:
 #    - title: site
 #      url: http://jimhowk.com
