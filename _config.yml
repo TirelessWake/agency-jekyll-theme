@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: <a href="http://jimhowk.com">Jim Howk</a>
-  pic: <a href="http://jimhowk.com">1.jpg</a>
+  pic: 1
 #  social:
 #    - title: site
 #      url: http://jimhowk.com
@@ -38,7 +38,7 @@ people:
 #      url: #
 
 - name: Sarah Howk
-  pic: 3.jpg
+  pic: 3
 #  social:
 #    - title: twitter
 #      url: #
