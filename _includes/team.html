@@ -6,9 +6,9 @@
                     <h2 class="section-heading">Our Group</h2>
                 </div>
             </div>
-            <div class="row centered">
+            <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <div class="col-sm-4 col-sm-offset-1 text-center">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
