@@ -15,10 +15,11 @@ color:
 # Team names, titles and social links
 people:
 - name: Jim Howk
+  url: http://jimhowk.com
   pic: 1
-  social:
-    - title: site
-      url: http://jimhowk.com
+#  social:
+#    - title: site
+#      url: http://jimhowk.com
 #    - title: twitter
 #      url: https://twitter.com/howkj1
 #    - title: github
