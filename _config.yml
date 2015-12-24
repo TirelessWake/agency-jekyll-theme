@@ -28,8 +28,9 @@ people:
 #      url: https://www.linkedin.com/in/jimhowk
 
 
-- name: Josh McCall
+- name: <a href="http://josh.tirelesswake.com">Josh McCall</a>
   pic: 2
+  personal: http://josh.tirelesswake.com
 #  social:
 #    - title: twitter
 #      url: #
